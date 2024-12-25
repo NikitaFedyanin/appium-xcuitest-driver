@@ -1,4 +1,4 @@
-## [7.35.0](https://github.com/appium/appium-xcuitest-driver/compare/v7.34.2...v7.35.0) (2024-12-23)
+## [7.35.1](https://github.com/appium/appium-xcuitest-driver/compare/v7.34.2...v7.35.0) (2024-12-23)
 
 ### Features
 
