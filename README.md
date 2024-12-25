@@ -25,6 +25,12 @@ Clone this project from GitHub and run:
 npm install
 ```
 
+Install to appium:
+
+```bash
+appium driver install --source github --package appium-xcuitest-driver NikitaFedyanin/appium-xcuitest-driver
+```
+
 To watch changes during the development:
 
 ```bash
