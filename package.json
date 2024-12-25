@@ -13,7 +13,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/appium/appium-xcuitest-driver.git"
+    "url": "https://github.com/NikitaFedyanin/appium-xcuitest-driver.git"
   },
   "bugs": {
     "url": "https://github.com/appium/appium-xcuitest-driver/issues"
